@@ -149,7 +149,7 @@
             this.Controls.Add(this.sourcePathTb);
             this.Controls.Add(this.runBt);
             this.Name = "Form1";
-            this.Text = "Patent Rename Tool";
+            this.Text = "Remove UTF8 Korean Row";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
